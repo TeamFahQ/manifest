@@ -24,6 +24,16 @@
            fetch="https://gitlab.com/EvoX"
            revision="refs/heads/udc" />
 
+  <!-- GitHub (Evolution X) -->
+  <remote  name="evo-pixel"
+           fetch="https://github.com/Evolution-X"
+           revision="refs/heads/udc-p" />
+
+  <!-- GitHub (Evolution X) -->
+  <remote  name="evo-jemalloc"
+           fetch="https://github.com/Evolution-X"
+           revision="refs/heads/udc-j" />
+
   <!-- Device repos -->
   <project path="device/evolution/sepolicy" name="device_evolution_sepolicy" remote="evo" />
   <project path="device/qcom/common" name="AOSPA/android_device_qcom_common" revision="uvite" remote="github" />
