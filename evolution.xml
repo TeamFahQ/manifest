@@ -140,6 +140,7 @@
   <project path="vendor/bcr" name="vendor_bcr" remote="evo" />
   <project path="vendor/evolution" name="vendor_evolution" remote="evo" />
   <project path="vendor/firmware" name="vendor_firmware" remote="evo-gitlab" clone-depth="1" />
+  <project path="vendor/google/interfaces" name="TheParasiteProject/vendor_google_interfaces" revision="14.0" remote="github" />
   <project path="vendor/gms" name="vendor_gms_new" groups="vendor" remote="evo-gitlab" clone-depth="1" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="evo" />
   <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" revision="uvite" remote="github" />
