@@ -36,7 +36,6 @@
 
   <!-- Device repos -->
   <project path="device/evolution/sepolicy" name="device_evolution_sepolicy" remote="evo" />
-  <project path="device/qcom/common" name="AOSPA/android_device_qcom_common" revision="uvite" remote="github" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" groups="qcom,sdm660" remote="evo" /> 
 
   <!-- External repos -->
@@ -145,5 +144,4 @@
   <project path="vendor/google/interfaces" name="TheParasiteProject/vendor_google_interfaces" revision="14.0" remote="github" />
   <project path="vendor/gms" name="vendor_gms_new" groups="vendor" remote="evo-gitlab" clone-depth="1" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="evo" />
-  <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" revision="uvite" remote="github" />
 </manifest> 
