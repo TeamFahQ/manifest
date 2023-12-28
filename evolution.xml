@@ -136,6 +136,9 @@
   <project path="system/update_engine" name="system_update_engine" remote="evo" />
   <project path="system/vold" name="system_vold" remote="evo" />
 
+  <!-- Tools -->
+  <project path="evolution/scripts" name="scripts" remote="evo" />
+
   <!-- Vendor repos -->
   <project path="vendor/bcr" name="vendor_bcr" remote="evo" />
   <project path="vendor/certification" name="vendor_certification" remote="evo-gitlab" />
